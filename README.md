@@ -3,10 +3,15 @@
 ## Descripción
 
 Se programa una pantalla LCD-1602 atraves de un sensor ultrasonico de distancia, dicha pantalla nos indicara el porcentaje de nivel de agua medido en un tanque.
+
 Mientras que 4 Relay Module nos indican lo mismo osea 4 leds encendidos, significa el 100% de nivel de agua en el tanque.
+
 Mientras que 4 Relay Module nos indican lo mismo osea 3 leds encendidos, significa el 75% de nivel de agua en el tanque.
+
 Mientras que 4 Relay Module nos indican lo mismo osea 2 leds encendidos, significa el 50% de nivel de agua en el tanque.
+
 Mientras que 4 Relay Module nos indican lo mismo osea 1 leds encendidos, significa el 25% de nivel de agua en el tanque.
+
 Mientras que 4 Relay Module nos indican lo mismo osea 0 leds encendidos, significa el 0% de nivel de agua en el tanque.
 
 
@@ -17,7 +22,7 @@ Mientras que 4 Relay Module nos indican lo mismo osea 0 leds encendidos, signifi
 - Ultrasonic Sensor
 - LCD-1602
 - Relay Module 
-- 
+  
 ## Programación
 ```
 // defines pins numbers
@@ -154,7 +159,7 @@ delay (2000);
 
 ## Resultados
 
-Los valores serán mostrados en la pantalla LCD, cada 2 segundos se actualizará, mostrará el porcentaje de agua en el tanque basado en la distancia que marca el sensor, y también si ninguna luz se enciende, significa que esta vacio, una sola luz esta al 25%, dos luces al 50%, tres luces al 75% y las 4 cuando esta lleno el tanque. 
+Los valores serán mostrados en la pantalla LCD, cada 2 segundos se actualizará, mostrará el porcentaje de agua en el tanque basado en la distancia que marca el sensor.
 
 ![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203104.png?raw=true)
 ![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203129.png?raw=true)
