@@ -143,7 +143,7 @@ delay (2000);
 
 ## Conexión
 
-![image]()
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20202500.png?raw=true)
 
 ##Instrucciones de operación 
 
@@ -156,11 +156,11 @@ delay (2000);
 
 Los valores serán mostrados en la pantalla LCD, cada 2 segundos se actualizará, mostrará el porcentaje de agua en el tanque basado en la distancia que marca el sensor, y también si ninguna luz se enciende, significa que esta vacio, una sola luz esta al 25%, dos luces al 50%, tres luces al 75% y las 4 cuando esta lleno el tanque. 
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203104.png?raw=true)
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203129.png?raw=true)
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203154.png?raw=true)
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203224.png?raw=true)
+![image](https://github.com/MiguelMontesinos/Practica-6-Nivel-de-Agua-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-17%20203238.png?raw=true)
 
 ## Desarrollado por 
 
